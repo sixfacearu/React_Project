@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/5a598a15a52828ec524d80a9e76e325b/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "94,148,202",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "143,197,244"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/5a598a15a52828ec524d80a9e76e325b/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "94,148,202",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "143,197,244"
+                    }
+                }
+            ]
+        }
+    ]
+}

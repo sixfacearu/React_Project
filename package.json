@@ -1,0 +1,47 @@
+{
+  "name": "B21",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "android": "react-native run-android --appIdSuffix 'debug'",
+    "ios": "react-native run-ios",
+    "bundle": "react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res",
+    "androiddevice": "react-native run-android"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "react": "16.4.1",
+    "react-moment": "^0.7.9",
+    "react-native": "^0.56.0",
+    "react-native-bottomsheet": "^1.9.0",
+    "react-native-i18n": "^2.0.15",
+    "react-native-image-crop-picker": "^0.21.3",
+    "react-native-keyboard-aware-scroll-view": "^0.7.1",
+    "react-native-linear-gradient": "^2.4.2",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-native-navigation": "^2.0.2471",
+    "react-native-otp-inputs": "^0.7.0",
+    "react-native-page-control": "^1.1.1",
+    "react-native-remote-svg": "^1.3.0",
+    "react-native-svg": "^6.5.2",
+    "react-native-svg-charts": "^5.2.0",
+    "react-native-switch": "^1.5.0",
+    "react-native-version-number": "^0.3.4",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.1",
+    "sort-json-array": "^0.1.7"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.2",
+    "babel-preset-react-native": "5.0.2",
+    "jest": "23.5.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

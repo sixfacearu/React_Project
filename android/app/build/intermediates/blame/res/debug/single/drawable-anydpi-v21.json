@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/home/chainflux/Desktop/B21Invest/B21Invest/node_modules/react-native-navigation/lib/android/app/build/intermediates/bundles/reactNative56Debug/res/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

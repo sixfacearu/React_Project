@@ -1,0 +1,106 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "478",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "655"
+                    }
+                },
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/5a598a15a52828ec524d80a9e76e325b/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,153",
+                        "endColumns": "45,51,51",
+                        "endOffsets": "96,148,200"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "328,374,426",
+                        "endColumns": "45,51,51",
+                        "endOffsets": "369,421,473"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "478",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "655"
+                    }
+                },
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/5a598a15a52828ec524d80a9e76e325b/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,153",
+                        "endColumns": "45,51,51",
+                        "endOffsets": "96,148,200"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "328,374,426",
+                        "endColumns": "45,51,51",
+                        "endOffsets": "369,421,473"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+export default class UserResponseModel {
+    FirstName;
+    LastName;
+    SecondLastName;
+    MiddleName;
+    FullName;
+    Address1;
+    Suburb;
+    City;
+    StateCode;
+    PostalCode;
+    CountryCode;
+    Phone;
+    Email;
+    Password;
+    BirthDate;
+    UserID;
+    CreatedDate;
+    LoginID;
+    Status;
+    DefaultCurrencyCode;
+}

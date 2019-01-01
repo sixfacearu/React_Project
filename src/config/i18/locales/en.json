@@ -1,0 +1,266 @@
+{
+    "login": {
+      "welcome": "Please login to continue",
+      "login_button": "login"
+    },
+    "common" : {
+        "welcome": "Welcome",
+        "email_placeholder" : "Enter your email address",
+        "password_placeholder" : "Enter your password here",
+        "phone_number_placeholder": "Enter your phone number",
+        "next_btn":"Next",
+        "skip_btn":"Skip",
+        "done_btn":"Done",
+        "phone_number": "Phone Number",
+        "api_failure":"API failure",
+        "okay":"OK",
+        "cancel":"Cancel",
+        "retry":"Retry",
+        "invalid_card_expiration": "Expiration date cannot be a past date"
+    },
+    "signin":{
+        "login_title":"Login",
+        "email":"Email",
+        "email_placeholder" : "Enter your email address",
+        "password": "Enter your password",
+        "password_placeholder" : "Enter password here",
+        "login_button":"Login",
+        "forgot_password": "Forgot Password?",
+        "dont_have_account":"Don't have an account? ",
+        "signup_button":"Sign Up Now!",
+        "please_enter_valid_email":"Please enter a valid email address",
+        "email_already_registered":"Email address is already registered!"
+    },
+    "signup":{
+        "signup_title": "Sign Up",
+        "first_name":"First Name",
+        "first_name_placeholder":"Enter your first name",
+        "last_name":"Last Name",
+        "last_name_placeholder":"Enter your last name",
+        "email":"Email",
+        "email_placeholder" : "Enter your email address",
+        "signup_button": "Sign Up",
+        "add_mobile_number_header" : "Add your mobile phone number",
+        "mobile_number_placeholder":"Enter your mobile number",
+        "add_mobile_number_description" : "We will send you an SMS with a code to verify your mobile phone number.",
+        "verify_mobile_number_header": "What's the code?",
+        "enter_code_below": "Enter your code below",
+        "resend_code":"Resend Code",
+        "problem_receiving_code":"Problems receiving the code?",
+        "terms_and_condition":"Terms & conditions",
+        "agree_terms_and_condition":"I agree to the terms & conditions",
+        "next_btn":"Next",
+        "authentication_api_failure": "Authenticate API failure! ",
+        "verification_code_sent_successfully":"Verification code sent successfully",
+        "problem_receiving_code_message":"Please check your phone number and if you are still facing the problem please email support@b21.io and quote the phone number you are using."
+    },
+    "welcome": {
+        "screenone_description":"Hi, we're B21. Our mission is simple. Through the app you hold in your hands presently, we are going to make it easy for you to set a financial or life goal, then invest in cryptocurrency to get there.",
+        "screensecond_description" : "Through our easy interface, we will guide you every step of the way. We will handle all the technical details so you can easily invest in your goal, see your progress, and reap the rewards when you achieve it!",
+        "country_not_supported":"Currently your country is not supported in the system."
+    },
+    "setpassword":{
+        "title": "Set your password",
+        "description":"A minimum of 8 characters, one capital letter, one special character, and one number are mandatory.",
+        "password": "Enter your password",
+        "password_placeholder" : "Enter password here",
+        "retype_password": "Re-type your password",
+        "retype_password_placeholder" : "Re-enter password here",
+        "next_btn":"Next"
+    },
+    "creategoal":{
+        "create_goal_title":"Create a Goal",
+        "create_goal_description":"Setting goals is great!",
+        "enter_goal_name_placeholder":"Enter Your Goal Name Here",
+        "save_goal_name":"Save Goal Name"
+    },
+    "setgoalamount":{
+        "goal_amount_title":"Set Goal Amount",
+        "goal_amount_description":"How much do you need to reach your Goal?",
+        "goal_amount_placeholder":"Enter Your Goal Amount Here",
+        "save_goal_amount":"Save Goal Amount"
+    },
+    "choosegoalcurrency": {
+        "main_title": "Select My Currency",
+        "select_curency_placeholder": "Select currency",
+        "save_goal_fiat_currency": "Save My Currency",
+        "please_unlock_currencies_to_auto_adjust_allocations":"please unlock currencies to auto adjust allocations"
+    },
+    "selectCryptoCurrency": {
+        "main_title": "Customize My Portfolio",
+        "description_text": "Tap on a Card to add a Coin to your Portfolio.",
+        "save_goal_crypto_btn":"Save My Portfolio"
+    },
+    "setgoaldate":{
+        "goal_date_title":"Set a Goal Date",
+        "goal_date_description":"When do you want to reach your Goal?",
+        "save_date_amount":"Save Goal Date",
+        "day":"Day",
+        "month":"Month",
+        "year":"Year",
+        "select_goal_date_placeholder":"Select a Date"
+    },
+    "goalsummary":{
+        "main_title": "Summary",
+        "description": "Your Allocation is how your incoming funds will be invested.",
+        "accept_button":"Accept",
+        "customize_button":"Customize"
+    },
+    "confirmYourCountry":{
+        "title":"Confirm your country",
+        "country":"Country",
+        "could_not_load_countries_please_retry":"Could not load countries! \nPlease retry."
+    },
+    "customizeCryptoCurrency": {
+        "main_title": "Customize My Portfolio",
+        "description": "Use the plus, minus and lock buttons to customize how your incoming funds will be invested. Unlocked coins will adjust automatically.",
+        "update_btn": "Update My Portfolio"
+    },
+    "goalinvestconfirm": {
+        "main_title": "Invest In My Goal",
+        "description": "Awesome job creating your Goal! Your investment journey awaits. To get started, let us securely verify your identity.",
+        "verify_btn": "Verify Me Now",
+        "edit_portfolio_link": "Edit Portfolio"
+    },
+    "kycAddressScreen" : {
+        "title":"Address",
+        "street_name":"Street Name",
+        "retry_states_list_loading":"Could not load states! \nPlease retry."
+    },
+    "kycNameScreen":{
+        "title": "Confirm your name"
+    },
+    "KycDobScreen": {
+        "title": "Date of birth",
+        "olderThan18" : "You need to be older than 18 to use our service",
+        "youngerThan110":"You need to be younger than 110 to use our service",
+        "cannotSelectFutureDate":"Please select a date prior to today's date",
+        "select_dob_placeholder": "Select your date of birth"
+    },
+    "kycAdditionalInfoScreen" : {
+        "title": "Additional information"
+    },
+    "kycUniqueIdentification": {
+        "title": "Let's securely verify your identity",
+        "agree_consent": "I agree",
+        "consent": "I give B21 Invest permission to search multiple databases to gather the following pieces of information about me"
+    },
+    "kycConfirmEmail": {
+        "title": "Confirm your email",
+        "description": "Tap the link in the email we sent to",
+        "resendEmail": "Resend Email",
+        "problemsReceivingCode": "Problems receiving the email?",
+        "verificationLinkSend": "Kindly tap on email verification link sent to your registered email Id",
+        "checkEmailAndContactSupport": "Please check your email and if you are still facing the problem, please email support@b21.io and quote the email which you are using.",
+        "emailNotVerified": "Your email has yet not been verified, please verify to continue."
+    },
+    "kycSourceOfFundsScreen" : {
+        "title" : "Please select the source of your funds"
+    },
+    "kycDocumentUploadScreen": {
+        "title": "For extra security, add the following",
+        "government_issued_id": "Your Government-Issued ID",
+        "add_photo_id": "Add a Photo ID",
+        "add_photo_id_description": "Add a photo of your valid passport or driving licence.",
+        "address_proof":"Proof of Your Address",
+        "upload_utility_bill":"Upload Your Utility Bill",
+        "upload_utility_bill_description":"Add a photo of your utility bill as proof of your address.",
+        "select_image": "Select image from",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "cancel": "Cancel"
+    },
+    "goalDashboardScreen": {
+        "title": "My Goal",
+        "target": "My Goal Target",
+        "invested": "Invested",
+        "gain": "Gain",
+        "return": "Return",
+        "investButton": "Invest Now",
+        "myPortfolio": "My Portfolio",
+        "exchange": "EXCHANGE",
+        "cashBalance": "Cash Balance",
+        "currentValue": "Current Value"
+    },
+    "congratulationScreen" : {
+        "title" : "Congratulations!",
+        "description" : "You have provided everything we need from you in order to verify your identity as a full-fledged B21 Investor. Now let's enter some quick payment details to complete your investment.",
+        "btn_title" : "Add My Payment Method"
+    },
+    "menuScreen":{
+        "my_account":"My Account",
+        "notifications":"Notifications",
+        "profile":"Profile",
+        "investment_allocation":"Investment Allocation",
+        "funding_methods":"Funding Methods",
+        "transaction_history":"Transaction History",
+        "withdraw":"Withdraw",
+        "security":"Security",
+        "change_password":"Change Password",
+        "app_settings":"App Settings",
+        "version":"Version ",
+        "help":"Help",
+        "legal":"Legal",
+        "sign_out":"Sign Out",
+        "please_complete_kyc_to_continue":"Please complete KYC process to continue."
+    },
+    "chooseInvestmentMethod": {
+        "title": "Choose an investment method" 
+    },
+    "debitCardSelectPaymentIntrument":{
+        "debit_card":"Debit Card",
+        "added_debit_card":"Added card",
+        "add_new_debit_card":"Add New ",
+        "use_this_card":"Use This Card",
+        "do_want_to_invest_another_debit_card_for_this_investment":"Do you want to add another debit card for this investment?",
+        "or":"Or"
+    },
+    "investmentAmount": {
+        "title": "Investment amount",
+        "description": "How much you want to invest today?",
+        "investment_amount_placeholder" : "Enter amount here",
+        "investmentAmtGreaterThan": "Investment amount should be greater than ",
+        "investmentAmtLessThan": "Investment amount should be less than "
+    },
+    "investmentSummary": {
+        "title": "Investment Summary",
+        "description" : "Investment Amount",
+        "invest_now": "Invest Now",
+        "payment_method": "Payment Method",
+        "debit_card": "Debit Card:"
+    },
+    "debitCardAdditionalInfo": {
+        "title": "Debit card info"
+    },
+    "investmentCashBalanceAmount": {
+        "title": "Investment amount",
+        "investment_amount_placeholder" : "Enter amount here",
+        "investmentAmtGreaterThan": "Investment amount should be greater than ",
+        "investmentAmtLessThan": "Investment amount should be less than "
+    },
+    "investmentTransactionSummmary": {
+        "success_title" : "Investment Summary",
+        "failure_title" : "Transaction failed",
+        "transaction_ref_id" : "Transaction Reference ID",
+        "success_desc": "It usually takes 2-3 days for your funds to clear and get invested in your allocation. You will be notified once this is done.",
+        "failure_desc": "Re-enter the payment information or try a different payment method",
+        "success_button": "See Your Portfolio",
+        "failure_button": "Try Again"
+    },
+    "investmentCashBalanceSummmary": {
+        "title": "Investment Summary",
+        "description" : "Investment Amount",
+        "cash_balance_after_investment": "Cash Balance After Investment",
+        "source": "Source",
+        "invest_now":"Invest Now",
+        "cash_balance":"Cash Balance"
+    },
+    "investmentCashBalanceTransactionSummmary": {
+        "success_title" : "Investment Summary",
+        "failure_title" : "Transaction failed",
+        "success_desc": "It usually takes 2-3 days for your funds to clear and get invested in your Allocation. You will be notified once this is done.",
+        "failure_desc": "We are unable to withdraw your funds at this time. Please wait and try again later, or try a different withdraw method",
+        "failure_button": "Try Again",
+        "success_button": "See Your Portfolio"
+    }
+}

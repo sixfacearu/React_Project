@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_round.png",
+        "source": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

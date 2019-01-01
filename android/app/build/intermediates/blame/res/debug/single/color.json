@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/ucrop_scale_text_view_selector.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/color/ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/91ca0da5a009acc4ae33dd7f06baf5f8/res/color/abc_hint_foreground_material_dark.xml"
+    }
+]

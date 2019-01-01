@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8d44ea873a3e8f3fda245a2ae68cd2f6/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8d44ea873a3e8f3fda245a2ae68cd2f6/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8d44ea873a3e8f3fda245a2ae68cd2f6/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/9a2aa1817e9a1ba9643bbdf4ad871b1a/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/9a2aa1817e9a1ba9643bbdf4ad871b1a/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8d44ea873a3e8f3fda245a2ae68cd2f6/res/layout-v21/notification_action.xml"
+    }
+]

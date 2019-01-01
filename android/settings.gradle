@@ -1,0 +1,24 @@
+rootProject.name = 'B21'
+include ':react-native-i18n'
+project(':react-native-i18n').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-i18n/android')
+include ':react-native-bottomsheet'
+project(':react-native-bottomsheet').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-bottomsheet/android')
+include ':react-native-image-crop-picker'
+project(':react-native-image-crop-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-image-crop-picker/android')
+
+include ':app'
+
+include ':react-native-navigation'
+project(':react-native-navigation').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-navigation/lib/android/app/')
+
+include ':app', ':react-native-i18n'
+project(':react-native-i18n').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-i18n/android')
+
+include ':react-native-linear-gradient'
+project(':react-native-linear-gradient').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-linear-gradient/android')
+
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-svg/android')
+
+include ':react-native-version-number'   
+project(':react-native-version-number').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-version-number/android')

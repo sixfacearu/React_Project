@@ -1,0 +1,1 @@
+export const ADD_GOAL_DASHBOARD = "ADD_GOAL_DASHBOARD";

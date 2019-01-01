@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_arrow_back_black_24dp.png",
+        "source": "/home/chainflux/Desktop/B21Invest/B21Invest/node_modules/react-native-navigation/lib/android/app/build/intermediates/bundles/reactNative56Debug/res/drawable-ldpi-v4/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/db5a0d0a942d09f5e26a52f4d561d28b/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    }
+]

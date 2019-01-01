@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/chainflux/Desktop/B21Invest/B21Invest/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/68cebc6702fd16c2cf45e0dc14a92f0c/res/xml/preferences.xml"
+    }
+]

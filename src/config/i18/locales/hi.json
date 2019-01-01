@@ -1,0 +1,77 @@
+{
+    "login": {
+      "welcome": "जारी रखने के लिए कृपया लॉग इन करें",
+      "login_button": "लॉग इन"
+    },
+    "common" : {
+        "email_placeholder" : "अपना पासवर्ड डालें",
+        "password_placeholder" : "यहां अपना पासवर्ड दर्ज करें",
+        "phone_number_placeholder": "Phone Number",
+        "welcome": "Welcome",
+        "next_btn":"Next",
+        "skip_btn":"Skip",
+        "done_btn":"Done",
+        "phone_number": "Phone Number",
+        "api_failure":"API failure",
+        "okay":"OK",
+        "cancel":"Cancel",
+        "retry":"Retry"
+    },
+    "signin":{
+        "login_title":"Login",
+        "email":"Email",
+        "email_placeholder" : "Enter your email address",
+        "password": "Enter your password",
+        "password_placeholder" : "Enter password here",
+        "login_button":"Login",
+        "forgot_password": "Forgot Password?",
+        "dont_have_account":"Don't have an account? ",
+        "signup_button":"Sign Up Now!"
+    },
+    "signup":{
+        "signup_title": "Sign Up",
+        "first_name":"First Name",
+        "first_name_placeholder":"Enter your first name",
+        "last_name":"Last Name",
+        "last_name_placeholder":"Enter your last name",
+        "email":"Email",
+        "email_placeholder" : "Enter your email address",
+        "signup_button": "Sign Up",
+        "add_mobile_number_header" : "Add your mobile phone number",
+        "mobile_number_placeholder":"Enter your mobile number",
+        "add_mobile_number_description" : "We will send you an SMS with a code to verify your mobile phone number.",
+        "verify_mobile_number_header": "What's the code?",
+        "enter_code_below": "Enter your code below",
+        "resend_code":"Resend Code",
+        "problem_receiving_code":"Problems receiving the code?",
+        "terms_and_condition":"Terms & conditions",
+        "agree_terms_and_condition":"I agree to the terms & conditions",
+        "next_btn":"Next"
+    },
+    "welcome": {
+        "screenone_description":"Hi, we're B21. Our mission is simple. Through the app you hold in your hands presently, we are going to make it easy for you to set a financial or life goal, then invest in cryptocurrency to get there.",
+        "screensecond_description" : "Through our easy interface, we will guide you every step of the way. We will handle all the technical details so you can easily invest in your goal, see your progress, and reap the rewards when you achieve it!",
+        "country_not_supported":"Currently your country is not supported in the system."
+    },
+    "setpassword":{
+        "title": "Set your password",
+        "description":"A minimum of 8 characters, one capital letter, one special character, and one number are mandatory.",
+        "password": "Enter your password",
+        "password_placeholder" : "Enter password here",
+        "retype_password": "Re-type your password",
+        "retype_password_placeholder" : "Re-enter password here",
+        "next_btn":"Next"
+    },
+    "creategoal":{
+        "create_goal_title":"Create a Goal",
+        "create_goal_description":"Setting goals is great!",
+        "enter_goal_name_placeholder":"Enter Your Goal Name Here",
+        "save_goal_name":"Save Goal Name"
+    },
+    "setgoalamount":{
+        "goal_amount_title":"Set Goal Amount",
+        "goal_amount_description":"How much do you need to reach your Goal?",
+        "goal_amount_placeholder":"Enter Your Goal Amount Here",
+        "save_goal_amount":"Save Goal Amount"
+    }
+}

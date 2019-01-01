@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/anim-v21/bs_list_item_in.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/5a598a15a52828ec524d80a9e76e325b/res/anim-v21/bs_list_item_in.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/anim-v21/bs_list_layout_anim_in.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/5a598a15a52828ec524d80a9e76e325b/res/anim-v21/bs_list_layout_anim_in.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/B21Invest/B21Invest/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/chainflux/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/70bf855be1c2d651f7f6ae0568f948d1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
